@@ -37,13 +37,10 @@ npm start
 This project is still under development and created mainly to practice React fundamentals.
 
 -------
-👤 Author
+## 👤 Author
 
 Lajpat Gautam
-
-
-
-
+!----------
 ## 📸 Screenshots
 
 ### Home Page
